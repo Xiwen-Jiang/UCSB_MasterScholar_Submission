@@ -2,7 +2,7 @@
 This is the repository for Xiwen Jiang and other members of Team Fake to submit the code files during the UCSB MasterScholar summer program.
 
 # Some Notes For The Files
-The .ipynb and .py files contain the some contents.<br>
+The .ipynb and .py files contain the same contents. Use either one as you like.<br>
 An edited dataset is used for the program.<br>
 You can access it via https://www.huggingface.co/datasets/Summitsky/WELFake_Dataset_Edited  <br>
 For running the LLM based model, which uses Mistral 7B, an access token should be generated at HuggingFace and Write permission should be granted. Enter it when required.<br>
